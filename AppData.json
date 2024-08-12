@@ -1,0 +1,6 @@
+{
+    "styleFolders":["/css"],
+    "scriptFolders":["/js"],
+    "pages":["pages"],
+    "windows":["windows"]
+}
