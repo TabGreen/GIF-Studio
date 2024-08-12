@@ -2,3 +2,7 @@ AppData.json包含了应用程序所的有数据,包括样式,代码,页面,弹�
     pages目录包含应用程序使用到的页面.每个页面文件夹下各包含
         fileList.json:包含页面中所使用到的文件的列表
         index.html:仅包含body部分的文件
+    style目录包含应用程序使用的样式.
+    script目录包含应用程序使用的脚本.
+        start目录包含了应用程序启动时所用的脚本.
+            loadFile.js:加载文件的脚本
