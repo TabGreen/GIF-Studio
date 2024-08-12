@@ -1,4 +1,4 @@
 {
     "page":["index.html"],
-    "style":["loading.css"]
+    "style":["/style/loading/loading.css"]
 }
